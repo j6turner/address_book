@@ -17,3 +17,12 @@ h2 {
   font-family: Georgia, Times, Helvetica;
   color: #565858;
 }
+
+.contact {
+  cursor: pointer;
+  color: #CC4040;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
