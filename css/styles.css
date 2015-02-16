@@ -3,4 +3,17 @@
   border: 3px solid #565858;
   padding: 20px 20px 20px 20px;
   background-color: #E7EFEF;
+
+}body {
+  background-color: #BCC0BC;
+}
+
+h1 {
+  font-family: Times, Helvetica;
+  color: #CC4040;
+}
+
+h2 {
+  font-family: Georgia, Times, Helvetica;
+  color: #565858;
 }
